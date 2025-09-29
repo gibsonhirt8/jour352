@@ -4,6 +4,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+  margin: 0 20 0 20px;
 }
 p{color: #ffffff}
 
@@ -15,7 +16,7 @@ h1{color: #ffffff; background-color: #000000;
 a {color: #fcd13f; text-decoration: none;
 }
 a:visited {color: #fcd13f; text-decoration: none;}
-a:hover {color: #000000}
+a:hover {color: #ffffff}
 
 
 .videoPageColor {background-color: #ffb612}
@@ -24,12 +25,19 @@ a:hover {color: #000000}
 
 /*RELATED INFO BOX STYLE*/
 .relatedInfo {border: solid 3px #000000; padding: 20px;
-  background-color: #5a1414; width: 50%; border-radius: 20px}
+  background-color: #5a1414; width: 25%; border-radius: 20px}
+
+.statsTable {border: solid 3px #ffffff; background-color: #000000; width: 24%}
 
 .jaydenphotos {
   border: solid 5px #fcd13f;
   display: block;
   width: 300px;
   float: right; /*I HAD TO LOOK UP HOW TO MOVE TEXT BACK UP WITH IMAGES*/
-  margin: 20px 0 20px auto;
+  margin: 20px 3px 20px 3px;
+  border-radius: 10px;
+}
+
+.iframe {
+  padding: 5px 20px 5px 20px;
 }
