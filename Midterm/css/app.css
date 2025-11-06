@@ -1,0 +1,26 @@
+body {
+  font-family: "Libre Franklin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h6 {
+	padding: 5px;
+}
+
+.table {padding:6px 8px;}
+
+tr, td {border: 1px solid #000000}
+
+.quote {border-left:4px solid #FF0000;padding-left:10px}
+
+.headline {border-bottom: 4px solid #ff0000;}
+
+img {
+  border-radius: 5px;
+}
+
+.callout {
+  border-radius: 5px; background-color:rgba(255, 0, 0, 0.5;
+}
