@@ -1,0 +1,8 @@
+body {
+  font-family: "Libre Franklin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.headline {border-bottom: 4px solid #FFB612;}
