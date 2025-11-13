@@ -1,0 +1,15 @@
+
+body {
+  font-family: "Stack Sans Text", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {font-family: "Stack Sans Text", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;}
+
+.split {border-top: 4px solid #000080;padding-top: 10px}
+.videos {margin: 50px}
