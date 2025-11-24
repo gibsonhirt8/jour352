@@ -1,0 +1,19 @@
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Special Gothic Condensed One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+body {
+  font-family: "Pathway Gothic One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.header {border-bottom: solid 4px #ff0000; margin: 20px}
+
+.accordian {font-size: 14px;}
+
