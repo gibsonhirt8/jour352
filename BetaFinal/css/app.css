@@ -19,13 +19,20 @@ li {
 }
 
 .headline { 
- border-bottom: dashed 5px #c21212;
+ border-top: dashed 5px #c21212;
+ padding-top: 15px;
 }
 
 
-.footerStyle {
+.copyright {
 text-align:center;
 background-color:#041E42;
 padding:20px;
 color:#fff;
+}
+
+.glove { 
+padding-top: 7px;
+border-radius: 50%;
+
 }
