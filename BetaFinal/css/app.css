@@ -1,0 +1,31 @@
+body {
+	background-color: #ffffff;
+	border-width: 15px;
+	border-style: solid;
+	border-color: #041E42;
+	color: #041E42;
+}
+
+
+body, h1, h2, h3, h4, h5, h6, p {
+  font-family: "Stack Sans Text", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+li {
+	color: #c21212;
+}
+
+.headline { 
+ border-bottom: dashed 5px #c21212;
+}
+
+
+.footerStyle {
+text-align:center;
+background-color:#041E42;
+padding:20px;
+color:#fff;
+}
